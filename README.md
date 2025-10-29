@@ -3,3 +3,4 @@
 ## Integrantes
 
 - Revisor: Armin Jamil Ilacio Cruz
+- D2 ÑDavid Gabriel Montaño Rocha
